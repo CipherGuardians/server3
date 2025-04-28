@@ -14,7 +14,7 @@ cat > /etc/shadowsocks-rust/config.json <<EOF
     "server": "::",
     "server_port": 3443,
     "method": "2022-blake3-aes-256-gcm",
-    "password": "P7vKFWwtDhJN/soYsKiun2sXMElDg8RKuzpQUToW20E=",
+    "password": "hwMnX/t/cuwqwnsaSz84LyRRzzrACDzioxSIbQXVDPw=",
     "mode": "tcp_and_udp"
 }
 EOF
